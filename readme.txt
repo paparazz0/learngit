@@ -5,3 +5,4 @@ Git tracks changes.
 My stupid boss still prefers SVN.
 stage test
 track changes, uhaaaaa
+Creating a new branch is quick.
